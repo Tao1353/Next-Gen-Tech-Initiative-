@@ -5,8 +5,8 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 <h2>Upcoming Events</h2>
 N/A 
 <h2>Learning Opportunities</h2>
--[Microsoft Learn](https://learn.microsoft.com/) 
--[IBM](https://www.ibm.com/training)
+- [Microsoft Learn](https://learn.microsoft.com/) 
+- [IBM](https://www.ibm.com/training)
 <h2>Internships</h2>
 
 
