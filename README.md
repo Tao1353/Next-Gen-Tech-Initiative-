@@ -13,4 +13,4 @@ N/A
 - [IBM](https://www.ibm.com/training)
 
 ## Internships
-(Coming soon!)
+- [Venture Starters](https://venturestarters.com/intern-program)
