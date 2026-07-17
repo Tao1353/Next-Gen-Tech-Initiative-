@@ -11,6 +11,12 @@ N/A
 ## Learning Opportunities
 - [Microsoft Learn](https://learn.microsoft.com/) 
 - [IBM](https://www.ibm.com/training)
+- [The Cherno - Youtube](https://www.youtube.com/@TheCherno)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Derek Banas - Youtube](https://www.youtube.com/@derekbanas)
+- [CS50](https://www.youtube.com/@cs50)
+- [Code Signal](https://codesignal.com/cosmo/)
+- [CoddyTech](https://coddy.tech/)
 
 ## Internships
 - [Venture Starters](https://venturestarters.com/intern-program)
