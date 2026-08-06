@@ -41,6 +41,8 @@ N/A
 - [Google AI](https://grow.google/ai-essentials/) — practical lessons on artificial intelligence, productivity, and generative AI.
 - [Hugging Face](https://huggingface.co/learn) — courses on machine learning, natural-language processing, datasets, and open-source AI tools.
 - [Kaggle](https://www.kaggle.com/learn) — practical courses in data science, machine learning, Python, SQL, and data analysis.
+- [Elements of AI](https://www.elementsofai.com/) - online introduction to AI.
+- [DeepLearning](https://www.deeplearning.ai/courses) - Short skill-specific AI courses
 
 ### Cloud and Networking
 
@@ -54,8 +56,16 @@ N/A
 ### CAD and Engineering Design
 
 - [FreeCAD](https://www.freecad.org/) — open-source parametric 3D computer-aided design software.
+- [OnShape](https://www.onshape.com/en/) - open-source parametric 3D computer-aided design software.
 - [GrabCAD](https://grabcad.com/) — CAD models, engineering projects, and design resources.
 - [Ansys](https://ansys.synopsys.com/) — engineering simulation tools for structures, fluids, finite-element analysis, and multiphysics.
+- [SimScale](https://www.simscale.com/) - AI-Native Engineering Simulation in the Cloud
+- [OpenSCAD](https://openscad.org/)- CAD as you code!
+- [LibreCAD](https://librecad.org/) - 2D Drafts Sketching tool
+- [PrePoMax](https://prepomax.fs.um.si/) - an open-source pre and post-processor for the Calculix FEM solver based on a modern user interface to speed up the FEM workflow.
+- [Blender](https://www.blender.org/) -open-source software used to create 3D models, animations, and visual effects.
+- [KiCad](https://www.kicad.org/) - A Cross Platform and Open Source PCB Design Suite
+- [SolveSpace](https://solvespace.com/index.pl) - a (GPLv3) parametric 3d CAD tool
 
 ### Materials and Manufacturing
 
