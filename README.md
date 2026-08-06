@@ -8,17 +8,27 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 ## Upcoming Events
 N/A 
 
-## Learning Opportunities
-- [Microsoft Learn](https://learn.microsoft.com/) 
-- [IBM](https://www.ibm.com/training)
-- [The Cherno - Youtube](https://www.youtube.com/@TheCherno)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Derek Banas - Youtube](https://www.youtube.com/@derekbanas)
-- [CS50](https://www.youtube.com/@cs50)
-- [Code Signal](https://codesignal.com/cosmo/)
-- [CoddyTech](https://coddy.tech/)
+## Learning Opportunities (organized)
+
+### Official documentation & guided learning
+- [Microsoft Learn](https://learn.microsoft.com/) — structured learning paths and role-based modules for Azure, .NET, Power Platform, and more.
+- [IBM Training](https://www.ibm.com/training) — IBM courses and certifications on cloud, AI, and data.
+- [CS50 (Harvard)](https://www.youtube.com/@cs50) — introductory computer science course with full lectures and materials.
+
+### Interactive platforms & practice
+- [FreeCodeCamp](https://www.freecodecamp.org/) — hands-on coding curriculum, projects, and certifications for web development and data.
+- [CodeSignal](https://codesignal.com/cosmo/) — coding challenges and interview practice to sharpen algorithms and problem solving.
+- [CoddyTech](https://coddy.tech/) — practice-oriented resources and tutorials (check site for specific tracks).
+
+### Video channels & short courses
+- [The Cherno — YouTube](https://www.youtube.com/@TheCherno) — deep dives into C++ and game engine programming, great for systems-level learning.
+- [Derek Banas — YouTube](https://www.youtube.com/@derekbanas) — concise, example-driven tutorials on many programming languages and topics.
+
+### Career & internship search
+- [Venture Starters — Intern Program](https://venturestarters.com/intern-program) — startup internship opportunities.
+- [IBM Internships](https://www.ibm.com/careers/internships) — internships and early career programs at IBM.
+
 
 ## Internships
 - [Venture Starters](https://venturestarters.com/intern-program)
 - [IBM](https://www.ibm.com/careers/internships)
-  
