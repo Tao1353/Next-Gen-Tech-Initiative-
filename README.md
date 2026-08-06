@@ -17,6 +17,7 @@ N/A
 - [IBM SkillsBuild](https://www.ibm.com/training) — career skills, artificial intelligence, data, cybersecurity, and professional development courses.
 - [Microsoft Learn](https://learn.microsoft.com/) — structured learning paths for Microsoft technologies, Azure, software development, and certifications.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) — university-level courses in computer science, engineering, mathematics, physics, and other disciplines.
+- [Tao's AP/College Resources](https://github.com/Tao1353/College-and-AP-Help) - a GitHub Repository with resources for AP and College courses.
 
 ### Programming Foundations
 
