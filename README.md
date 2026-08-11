@@ -12,67 +12,91 @@ N/A
 
 ### General Learning Platforms
 
-- [Class Central](https://www.classcentral.com/) — searchable catalog of online courses from universities and educational platforms.
-- [Forage](https://www.theforage.com/dashboard) — virtual job simulations and career-exploration experiences.
-- [IBM SkillsBuild](https://www.ibm.com/training) — career skills, artificial intelligence, data, cybersecurity, and professional development courses.
-- [Microsoft Learn](https://learn.microsoft.com/) — structured learning paths for Microsoft technologies, Azure, software development, and certifications.
-- [MIT OpenCourseWare](https://ocw.mit.edu/) — university-level courses in computer science, engineering, mathematics, physics, and other disciplines.
-- [Tao's AP/College Resources](https://github.com/Tao1353/College-and-AP-Help) - a GitHub Repository with resources for AP and College courses.
+- [Class Central](https://www.classcentral.com/) 
+- [Forage](https://www.theforage.com/dashboard) 
+- [IBM SkillsBuild](https://www.ibm.com/training)
+- [Microsoft Learn](https://learn.microsoft.com/) 
+- [MIT OpenCourseWare](https://ocw.mit.edu/) 
+- [Tao's AP/College Resources](https://github.com/Tao1353/College-and-AP-Help) 
+- [Great Learning Academy](https://www.mygreatlearning.com/academy)
+- [Google Digital Garage](https://skillshop.exceedlms.com/student/catalog/list?category_ids=7879-google-digital-garage) 
+- [NVIDA](https://www.nvidia.com/en-us/training/self-paced-courses/)
+- [Open Yale Courses](https://oyc.yale.edu/)
+- [Harvard Online](https://harvardonline.harvard.edu/)
 
 ### Programming Foundations
 
-- [CS50 — YouTube](https://www.youtube.com/@cs50) — introductory computer science lectures and programming lessons.
-- [FreeCodeCamp](https://www.freecodecamp.org/) — interactive courses and certifications in web development, programming, and data science.
-- [Derek Banas — YouTube](https://www.youtube.com/@derekbanas) — concise, example-driven tutorials on many programming languages and topics.
-- [CoddyTech](https://coddy.tech/) — interactive lessons and exercises for learning programming fundamentals.
-- [Python Tutor](https://pythontutor.com/) — visual, step-by-step code execution for learning programming logic.
-- [W3Schools](https://www.w3schools.com/) — beginner-friendly tutorials and references for web development and programming.
-- [The Cherno — YouTube](https://www.youtube.com/@TheCherno) — tutorials on C++, game-engine development, graphics programming, and software architecture.
+- [CS50 — YouTube](https://www.youtube.com/@cs50) 
+- [FreeCodeCamp](https://www.freecodecamp.org/) 
+- [Derek Banas — YouTube](https://www.youtube.com/@derekbanas)
+- [CoddyTech](https://coddy.tech/) 
+- [Python Tutor](https://pythontutor.com/)
+- [W3Schools](https://www.w3schools.com/) 
+- [The Cherno — YouTube](https://www.youtube.com/@TheCherno) 
+- [FutureCoder](https://futurecoder.io/)
+- [CodeBeauty - Youtube](https://www.youtube.com/codebeauty)
 
 ### Programming Practice
 
-- [LeetCode](https://leetcode.com/) — algorithm, data-structure, and technical-interview practice problems.
-- [CodeSignal](https://codesignal.com/cosmo/) — coding assessments, programming practice, and technical skill development.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) — programming explanations, algorithms, data structures, and interview preparation.
+- [LeetCode](https://leetcode.com/) 
+- [CodeSignal](https://codesignal.com/cosmo/) 
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) 
+- [Exercism](https://exercism.org/) 
+- [The Odin Project](https://www.theodinproject.com/) 
+- [CodeWars](https://www.codewars.com/)
+- [CodeCombat](https://codecombat.com/) 
 
 ### Artificial Intelligence and Machine Learning
 
-- [Anthropic Academy](https://www.anthropic.com/learn) — learning resources on generative AI, Claude, prompting, and AI application development.
-- [Google AI](https://grow.google/ai-essentials/) — practical lessons on artificial intelligence, productivity, and generative AI.
-- [Hugging Face](https://huggingface.co/learn) — courses on machine learning, natural-language processing, datasets, and open-source AI tools.
-- [Kaggle](https://www.kaggle.com/learn) — practical courses in data science, machine learning, Python, SQL, and data analysis.
-- [Elements of AI](https://www.elementsofai.com/) - online introduction to AI.
-- [DeepLearning](https://www.deeplearning.ai/courses) - Short skill-specific AI courses
+- [Anthropic Academy](https://www.anthropic.com/learn) 
+- [Google AI](https://grow.google/ai-essentials/) 
+- [Hugging Face](https://huggingface.co/learn) 
+- [Kaggle](https://www.kaggle.com/learn) 
+- [Elements of AI](https://www.elementsofai.com/) 
+- [DeepLearning](https://www.deeplearning.ai/courses) 
+- [SimpliLearn](https://www.simplilearn.com/) 
 
 ### Cloud and Networking
 
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) — beginner-friendly training in cloud computing and Amazon Web Services.
-- [Cisco Skills](https://www.netacad.com/) — courses in networking, cybersecurity, programming, and information technology.
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) 
+- [Cisco Skills](https://www.netacad.com/) 
+
 
 ### Engineering Fundamentals
 
-- [Engineering Statics](https://engineeringstatics.org/) — lessons and practice problems covering statics, mechanics, forces, and moments.
+- [Engineering Statics](https://engineeringstatics.org/)
+- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+- [Last Minute Engineers](https://lastminuteengineers.com/)
 
 ### CAD and Engineering Design
 
-- [FreeCAD](https://www.freecad.org/) — open-source parametric 3D computer-aided design software.
-- [OnShape](https://www.onshape.com/en/) - open-source parametric 3D computer-aided design software.
-- [GrabCAD](https://grabcad.com/) — CAD models, engineering projects, and design resources.
-- [Ansys](https://ansys.synopsys.com/) — engineering simulation tools for structures, fluids, finite-element analysis, and multiphysics.
-- [SimScale](https://www.simscale.com/) - AI-Native Engineering Simulation in the Cloud
-- [OpenSCAD](https://openscad.org/)- CAD as you code!
-- [LibreCAD](https://librecad.org/) - 2D Drafts Sketching tool
-- [PrePoMax](https://prepomax.fs.um.si/) - an open-source pre and post-processor for the Calculix FEM solver based on a modern user interface to speed up the FEM workflow.
-- [Blender](https://www.blender.org/) -open-source software used to create 3D models, animations, and visual effects.
-- [KiCad](https://www.kicad.org/) - A Cross Platform and Open Source PCB Design Suite
-- [SolveSpace](https://solvespace.com/index.pl) - a (GPLv3) parametric 3d CAD tool
+- [FreeCAD](https://www.freecad.org/) 
+- [OnShape](https://www.onshape.com/en/) 
+- [GrabCAD](https://grabcad.com/) 
+- [Ansys](https://ansys.synopsys.com/) 
+- [SimScale](https://www.simscale.com/) 
+- [OpenSCAD](https://openscad.org/)
+- [LibreCAD](https://librecad.org/) 
+- [PrePoMax](https://prepomax.fs.um.si/) 
+- [Blender](https://www.blender.org/)
+- [KiCad](https://www.kicad.org/) 
+- [SolveSpace](https://solvespace.com/index.pl) 
+- - [ByteByteGo](https://bytebytego.com/) 
 
 ### Materials and Manufacturing
 
-- [MatWeb](https://www.matweb.com/) — searchable material-property data for metals, plastics, ceramics, and composites.
-- [GaugeHow](https://gaugehow.com/) — practical engineering, manufacturing, measurement, and technical reference content.
+- [MatWeb](https://www.matweb.com/) 
+- [GaugeHow](https://gaugehow.com/) 
 
 
-## Internships
+## Internships/Jobs
 - [Venture Starters](https://venturestarters.com/intern-program)
 - [IBM](https://www.ibm.com/careers/internships)
+- [WellFound](https://wellfound.com/)
+- [Summer 2027 - Simplify](https://github.com/SimplifyJobs/Summer2027-Internships)
+- [Summer 2027 - vansh](https://github.com/vanshb03/Summer2027-Internships)
+- [2027 AI Jobs - Speedy](https://github.com/speedyapply/2027-AI-College-Jobs)
+- [MLH Fellowship](https://fellowship.mlh.com/)
+- [Outreachy](https://www.outreachy.org/)
+- [AWS re/Start](https://aws.amazon.com/training/restart/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) 
