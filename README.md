@@ -44,7 +44,8 @@ N/A
 - [Exercism](https://exercism.org/) 
 - [The Odin Project](https://www.theodinproject.com/) 
 - [CodeWars](https://www.codewars.com/)
-- [CodeCombat](https://codecombat.com/) 
+- [CodeCombat](https://codecombat.com/)
+- [Firstpromptbuild](https://firstprompt.build/)
 
 ### Artificial Intelligence and Machine Learning
 
@@ -86,9 +87,9 @@ N/A
 ### Materials and Manufacturing
 
 - [MatWeb](https://www.matweb.com/) 
-- [GaugeHow](https://gaugehow.com/) 
-
-
+- [GaugeHow](https://gaugehow.com/)
+- [WeBots](https://cyberbotics.com/)
+  
 ## Internships/Jobs
 - [Venture Starters](https://venturestarters.com/intern-program)
 - [IBM](https://www.ibm.com/careers/internships)
@@ -99,4 +100,6 @@ N/A
 - [MLH Fellowship](https://fellowship.mlh.com/)
 - [Outreachy](https://www.outreachy.org/)
 - [AWS re/Start](https://aws.amazon.com/training/restart/)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) 
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Anthropics Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/)
+- [NASA](https://stemgateway.nasa.gov/s/explore-opportunities?opportunitytype=internships)
