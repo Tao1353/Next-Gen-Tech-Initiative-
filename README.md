@@ -82,7 +82,14 @@ N/A
 - [Blender](https://www.blender.org/)
 - [KiCad](https://www.kicad.org/) 
 - [SolveSpace](https://solvespace.com/index.pl) 
-- - [ByteByteGo](https://bytebytego.com/) 
+- [ByteByteGo](https://bytebytego.com/) 
+
+### VEX Robotics
+
+- [VEX U](https://www.vexu.org/)
+- [2026-2027 Override Game Video](https://www.youtube.com/watch?v=9SzdOQ-VGfk)
+- [2026-2027 Override Game Manual](https://content.vexrobotics.com/docs/VEX-U-2026-2027/2026-2027-VEX-U-Game-Manual.pdf)
+- [VEX Forum](https://www.vexforum.com/)
 
 ### Materials and Manufacturing
 
