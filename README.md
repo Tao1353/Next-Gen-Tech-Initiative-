@@ -23,6 +23,10 @@ N/A
 - [NVIDA](https://www.nvidia.com/en-us/training/self-paced-courses/)
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Harvard Online](https://harvardonline.harvard.edu/)
+- [LearnVern](https://www.learnvern.com/)
+- [DigitalDefynd](https://digitaldefynd.com/)
+- [OpenCulture](https://www.openculture.com/freeonlinecourses)
+- 
 
 ### Programming Foundations
 
@@ -35,6 +39,7 @@ N/A
 - [The Cherno — YouTube](https://www.youtube.com/@TheCherno) 
 - [FutureCoder](https://futurecoder.io/)
 - [CodeBeauty - Youtube](https://www.youtube.com/codebeauty)
+- [OverAPI](https://overapi.com/)
 
 ### Programming Practice
 
@@ -46,6 +51,7 @@ N/A
 - [CodeWars](https://www.codewars.com/)
 - [CodeCombat](https://codecombat.com/)
 - [Firstpromptbuild](https://firstprompt.build/)
+- [CodeChef](https://www.codechef.com/)
 
 ### Artificial Intelligence and Machine Learning
 
@@ -96,6 +102,7 @@ N/A
 - [MatWeb](https://www.matweb.com/) 
 - [GaugeHow](https://gaugehow.com/)
 - [WeBots](https://cyberbotics.com/)
+- [CircuitBread](https://www.circuitbread.com/)
   
 ## Internships/Jobs
 - [Venture Starters](https://venturestarters.com/intern-program)
@@ -110,3 +117,9 @@ N/A
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Anthropics Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/)
 - [NASA](https://stemgateway.nasa.gov/s/explore-opportunities?opportunitytype=internships)
+- [NVIDA](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
+- [AI Societal Impact](https://www.aisocietalimpactlab.com/)
+- [RazorPay](https://razorpay.com/buildathon/)
+- [Google](https://research.google/programs-and-events/student-engagement/)
+- [Amazon](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students)
+- [Sequoia](https://sequoiacap.com/oss)
