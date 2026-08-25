@@ -26,7 +26,6 @@ N/A
 - [LearnVern](https://www.learnvern.com/)
 - [DigitalDefynd](https://digitaldefynd.com/)
 - [OpenCulture](https://www.openculture.com/freeonlinecourses)
-- 
 
 ### Programming Foundations
 
@@ -52,6 +51,7 @@ N/A
 - [CodeCombat](https://codecombat.com/)
 - [Firstpromptbuild](https://firstprompt.build/)
 - [CodeChef](https://www.codechef.com/)
+- [HDL2 Chips](https://hdl2chips.in)
 
 ### Artificial Intelligence and Machine Learning
 
@@ -123,3 +123,4 @@ N/A
 - [Google](https://research.google/programs-and-events/student-engagement/)
 - [Amazon](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students)
 - [Sequoia](https://sequoiacap.com/oss)
+- [Netflix](https://jobs.netflix.com/careers/internships)
