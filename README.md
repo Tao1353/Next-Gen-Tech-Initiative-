@@ -6,7 +6,8 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
 
 ## Upcoming Events
-N/A 
+- Club Fair on September 8th! 
+<h2>Meetings</h2>
 
 ## Learning Opportunities 
 
