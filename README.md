@@ -6,8 +6,11 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
 
 ## Upcoming Events
-- Club Fair on September 8th! 
+- Tabling at Hillwood: 9/10
+- Talk with a Software Engineer: 9/24
+- Vicktoria AI Demo: 10/1
 <h2>Meetings</h2>
+
 <h3>Usual Time and Location (will update if changed for specific meetings) </h3>
 Time: Thursdays, 12:50pm-1:40pm
 Location: AI,CS, and Digital Engineering Office (3rd Floor of Library)
