@@ -1,6 +1,6 @@
 # Next-Gen-Tech-Initiative
-Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field find internships and forthcoming careers! 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_(2)" src="https://github.com/user-attachments/assets/2115250e-9f11-4fb3-adf5-772f43992c91" />
+Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field [...]
+<img width="1024" height="1024" alt="NGTI Logo" src="https://media.discordapp.net/attachments/1065029810201575537/1550665449858015313/NGTI_LOGO_1.png?ex=6aaf293d&is=6aadd7bd&hm=cc340101b42444d9726c2d5ac2d18ab78f843c9b0f4349f5ccc0027fc7683059&=&format=webp&quality=lossless" />
 
 ## Follow and Join us on:
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
