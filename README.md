@@ -13,7 +13,7 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 
 <h3>Usual Time and Location (will update if changed for specific meetings) </h3>
 Time: Thursdays, 12:50pm-1:40pm
-Location: AI,CS, and Digital Engineering Office (3rd Floor of Library)
+Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 
 ## Learning Opportunities 
 
@@ -59,6 +59,10 @@ Location: AI,CS, and Digital Engineering Office (3rd Floor of Library)
 - [Firstpromptbuild](https://firstprompt.build/)
 - [CodeChef](https://www.codechef.com/)
 - [HDL2 Chips](https://hdl2chips.in)
+- [realpython](https://realpython.com/)
+- [pybites](https://pybit.es/)
+- [CodeForces](https://codeforces.com/contests)
+  
 
 ### Artificial Intelligence and Machine Learning
 
