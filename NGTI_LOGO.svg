@@ -1,156 +1,81 @@
-# Next-Gen-Tech-Initiative
-Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field.
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Next Gen Tech Initiative Logo</title>
+  <desc id="desc">A stylized gear-shaped emblem with a split robot face and the words NEXT GEN TECH INITIATIVE.</desc>
 
-<img width="1024" height="1024" alt="NGTI Logo" src="./NGTI_LOGO.svg">
+  <rect width="1024" height="1024" fill="#f4f4f4"/>
 
-## Follow and Join us on:
-- [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
+  <!-- Outer gear ring -->
+  <g fill="#0d224c" stroke="#0b1020" stroke-width="12" stroke-linejoin="round">
+    <rect x="470" y="70" width="84" height="120" rx="18"/>
+    <rect x="470" y="834" width="84" height="120" rx="18"/>
+    <rect x="70" y="470" width="120" height="84" rx="18"/>
+    <rect x="834" y="470" width="120" height="84" rx="18"/>
 
-## Upcoming Events
-- Talk with a Software Engineer: 9/24
-- Vicktoria AI Demo: 10/1
-- Internet Safety: 10/8
-<h2>Meetings</h2>
+    <rect x="180" y="160" width="84" height="120" rx="18" transform="rotate(-45 222 220)"/>
+    <rect x="760" y="160" width="84" height="120" rx="18" transform="rotate(45 802 220)"/>
+    <rect x="180" y="744" width="84" height="120" rx="18" transform="rotate(45 222 804)"/>
+    <rect x="760" y="744" width="84" height="120" rx="18" transform="rotate(-45 802 804)"/>
 
-<h3>Usual Time and Location (will update if changed for specific meetings) </h3>
-Time: Thursdays, 12:50pm-1:40pm
-Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
+    <rect x="122" y="300" width="120" height="84" rx="18" transform="rotate(-30 182 342)"/>
+    <rect x="782" y="300" width="120" height="84" rx="18" transform="rotate(30 842 342)"/>
+    <rect x="122" y="640" width="120" height="84" rx="18" transform="rotate(30 182 682)"/>
+    <rect x="782" y="640" width="120" height="84" rx="18" transform="rotate(-30 842 682)"/>
+  </g>
 
-## Learning Opportunities 
+  <circle cx="512" cy="512" r="356" fill="#0d224c" stroke="#0b1020" stroke-width="14"/>
+  <circle cx="512" cy="512" r="300" fill="#f2f3f5" stroke="#0b1020" stroke-width="14"/>
 
-### General Learning Platforms
+  <!-- Split robot face -->
+  <g stroke="#0b1020" stroke-width="12" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M218 324 H512 V610 H218 Z" fill="#f3d44d"/>
+    <path d="M512 324 H806 V610 H512 Z" fill="#7ec8f5"/>
 
-- [Class Central](https://www.classcentral.com/) 
-- [Forage](https://www.theforage.com/dashboard) 
-- [IBM SkillsBuild](https://www.ibm.com/training)
-- [Microsoft Learn](https://learn.microsoft.com/) 
-- [MIT OpenCourseWare](https://ocw.mit.edu/) 
-- [Tao's AP/College Resources](https://github.com/Tao1353/College-and-AP-Help) 
-- [Great Learning Academy](https://www.mygreatlearning.com/academy)
-- [Google Digital Garage](https://skillshop.exceedlms.com/student/catalog/list?category_ids=7879-google-digital-garage) 
-- [NVIDA](https://www.nvidia.com/en-us/training/self-paced-courses/)
-- [Open Yale Courses](https://oyc.yale.edu/)
-- [Harvard Online](https://harvardonline.harvard.edu/)
-- [LearnVern](https://www.learnvern.com/)
-- [DigitalDefynd](https://digitaldefynd.com/)
-- [OpenCulture](https://www.openculture.com/freeonlinecourses)
-- [RoadMap](https://roadmap.sh/)
+    <path d="M218 610 H512 V714 H218 Z" fill="#f3d44d"/>
+    <path d="M512 610 H806 V714 H512 Z" fill="#7ec8f5"/>
 
-### Programming Foundations
+    <!-- jaw and teeth -->
+    <path d="M324 700 H700 V780 H324 Z" fill="#f4f4f4"/>
+    <path d="M360 780 H664 V850 H360 Z" fill="#f4f4f4"/>
 
-- [CS50 — YouTube](https://www.youtube.com/@cs50) 
-- [FreeCodeCamp](https://www.freecodecamp.org/) 
-- [Derek Banas — YouTube](https://www.youtube.com/@derekbanas)
-- [CoddyTech](https://coddy.tech/) 
-- [Python Tutor](https://pythontutor.com/)
-- [W3Schools](https://www.w3schools.com/) 
-- [The Cherno — YouTube](https://www.youtube.com/@TheCherno) 
-- [FutureCoder](https://futurecoder.io/)
-- [CodeBeauty - Youtube](https://www.youtube.com/codebeauty)
-- [OverAPI](https://overapi.com/)
-- [QuickRefMe](https://quickref.me/index.html)
-- [BroCode](https://www.youtube.com/@BroCodez)
+    <path d="M264 712 L476 712 L476 780 L264 780 Z" fill="#f4f4f4"/>
+    <path d="M548 712 H760 V780 H548 Z" fill="#f4f4f4"/>
 
-### Programming Practice
+    <g fill="#f4f4f4">
+      <rect x="300" y="700" width="46" height="80" rx="8"/>
+      <rect x="356" y="700" width="46" height="80" rx="8"/>
+      <rect x="412" y="700" width="46" height="80" rx="8"/>
+      <rect x="468" y="700" width="46" height="80" rx="8"/>
+      <rect x="524" y="700" width="46" height="80" rx="8"/>
+      <rect x="580" y="700" width="46" height="80" rx="8"/>
+      <rect x="636" y="700" width="46" height="80" rx="8"/>
+      <rect x="692" y="700" width="46" height="80" rx="8"/>
+    </g>
 
-- [LeetCode](https://leetcode.com/) 
-- [CodeSignal](https://codesignal.com/cosmo/) 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) 
-- [Exercism](https://exercism.org/) 
-- [The Odin Project](https://www.theodinproject.com/) 
-- [CodeWars](https://www.codewars.com/)
-- [CodeCombat](https://codecombat.com/)
-- [Firstpromptbuild](https://firstprompt.build/)
-- [CodeChef](https://www.codechef.com/)
-- [HDL2 Chips](https://hdl2chips.in)
-- [realpython](https://realpython.com/)
-- [pybites](https://pybit.es/)
-- [CodeForces](https://codeforces.com/contests)
-- [GitMastery](https://gitmastery.me/)
-- [ReadMe.So](https://readme.so/)
-  
+    <!-- eye accents -->
+    <g>
+      <circle cx="330" cy="456" r="74" fill="#0d224c"/>
+      <circle cx="330" cy="456" r="30" fill="#f3d44d"/>
+      <circle cx="330" cy="456" r="16" fill="#0d224c"/>
 
-### Artificial Intelligence and Machine Learning
+      <circle cx="694" cy="456" r="74" fill="#0d224c"/>
+      <circle cx="694" cy="456" r="30" fill="#7ec8f5"/>
+      <circle cx="694" cy="456" r="16" fill="#0d224c"/>
+    </g>
 
-- [Anthropic Academy](https://www.anthropic.com/learn) 
-- [Google AI](https://grow.google/ai-essentials/) 
-- [Hugging Face](https://huggingface.co/learn) 
-- [Kaggle](https://www.kaggle.com/learn) 
-- [Elements of AI](https://www.elementsofai.com/) 
-- [DeepLearning](https://www.deeplearning.ai/courses) 
-- [SimpliLearn](https://www.simplilearn.com/)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Quick Draw](https://quickdraw.withgoogle.com/?locale=en_US)
-- [Lakera](https://play.lakera.ai/agent-breaker)
+    <!-- face features -->
+    <path d="M230 430 H286 V500 H230 Z" fill="#f4f4f4"/>
+    <path d="M738 430 H794 V500 H738 Z" fill="#f4f4f4"/>
 
-### Cloud and Networking
+    <path d="M218 324 Q512 250 806 324 V356 H218 Z" fill="#f2f3f5"/>
+    <path d="M514 324 L612 460 L514 610 L416 460 Z" fill="#f4f4f4"/>
 
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) 
-- [Cisco Skills](https://www.netacad.com/) 
+    <circle cx="512" cy="512" r="105" fill="none"/>
+    <path d="M392 540 L512 600 L632 540" fill="none"/>
+  </g>
 
-
-### Engineering Fundamentals
-
-- [Engineering Statics](https://engineeringstatics.org/)
-- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-- [Last Minute Engineers](https://lastminuteengineers.com/)
-
-### Circuits and Electronics
-- [CircuitBread](https://www.circuitbread.com/)
-- [KiCad](https://www.kicad.org/)
-- [BenEater](https://eater.net/)
-- [wokwi](https://wokwi.com/)
-- [sparksfun](https://www.sparkfun.com/)
-- [Phil's Lab](https://www.youtube.com/@PhilsLab)
-- [Afrotechmods](https://www.youtube.com/@Afrotechmods)
-- [NesoAcademy](https://www.youtube.com/@nesoacademy)
-- [Schemy.net](https://schemy.net/)
-
-### CAD and Engineering Design
-
-- [FreeCAD](https://www.freecad.org/) 
-- [OnShape](https://www.onshape.com/en/) 
-- [GrabCAD](https://grabcad.com/) 
-- [Ansys](https://ansys.synopsys.com/) 
-- [SimScale](https://www.simscale.com/) 
-- [OpenSCAD](https://openscad.org/)
-- [LibreCAD](https://librecad.org/) 
-- [PrePoMax](https://prepomax.fs.um.si/) 
-- [Blender](https://www.blender.org/)
-- [SolveSpace](https://solvespace.com/index.pl) 
-- [ByteByteGo](https://bytebytego.com/) 
-
-### VEX Robotics
-
-- [VEX U](https://www.vexu.org/)
-- [2026-2027 Override Game Video](https://www.youtube.com/watch?v=9SzdOQ-VGfk)
-- [2026-2027 Override Game Manual](https://content.vexrobotics.com/docs/VEX-U-2026-2027/2026-2027-VEX-U-Game-Manual.pdf)
-- [VEX Forum](https://www.vexforum.com/)
-
-### Materials and Manufacturing
-
-- [MatWeb](https://www.matweb.com/) 
-- [GaugeHow](https://gaugehow.com/)
-- [WeBots](https://cyberbotics.com/)
-  
-## Internships/Jobs
-- [Venture Starters](https://venturestarters.com/intern-program)
-- [IBM](https://www.ibm.com/careers/internships)
-- [WellFound](https://wellfound.com/)
-- [Summer 2027 - Simplify](https://github.com/SimplifyJobs/Summer2027-Internships)
-- [Summer 2027 - vansh](https://github.com/vanshb03/Summer2027-Internships)
-- [2027 AI Jobs - Speedy](https://github.com/speedyapply/2027-AI-College-Jobs)
-- [MLH Fellowship](https://fellowship.mlh.com/)
-- [Outreachy](https://www.outreachy.org/)
-- [AWS re/Start](https://aws.amazon.com/training/restart/)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/)
-- [Anthropics Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/)
-- [NASA](https://stemgateway.nasa.gov/s/explore-opportunities?opportunitytype=internships)
-- [NVIDA](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
-- [AI Societal Impact](https://www.aisocietalimpactlab.com/)
-- [RazorPay](https://razorpay.com/buildathon/)
-- [Google](https://research.google/programs-and-events/student-engagement/)
-- [Amazon](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students)
-- [Sequoia](https://sequoiacap.com/oss)
-- [Netflix](https://jobs.netflix.com/careers/internships)
+  <!-- Text -->
+  <g fill="#0d224c" font-family="Verdana, Arial, sans-serif" font-weight="700" letter-spacing="2">
+    <text x="512" y="900" text-anchor="middle" font-size="54" transform="rotate(-8 512 900)">NEXT GEN TECH</text>
+    <text x="512" y="968" text-anchor="middle" font-size="54" transform="rotate(-8 512 968)">INITIATIVE</text>
+  </g>
+</svg>
