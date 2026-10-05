@@ -7,8 +7,6 @@ Next Gen Tech Initiative (NextTech) is a Long Island University Student Organiza
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
 
 ## Upcoming Events
-- Talk with a Software Engineer: 9/24
-- Vicktoria AI Demo: 10/1
 - Internet Safety: 10/8
 <h2>Meetings</h2>
 
@@ -35,6 +33,7 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [DigitalDefynd](https://digitaldefynd.com/)
 - [OpenCulture](https://www.openculture.com/freeonlinecourses)
 - [RoadMap](https://roadmap.sh/)
+- [NeuroMatch](https://neuromatch.io/)
 
 ### Cybersecurity
 
@@ -52,6 +51,7 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 - [Codecademy Git Course](https://www.codecademy.com/learn/learn-git)
+- [ReadMe.So](https://readme.so/)
 
 ### App Building
 
@@ -61,6 +61,8 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Expo](https://expo.dev/)
 - [Build with Google AI](https://ai.google/build/)
 - [MDN Web Docs](https://developer.mozilla.org/)
+- [Wron](https://www.wron.ai/)
+- [Base44](https://app.base44.com/)
 
 ### Programming Foundations
 
@@ -76,6 +78,8 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [OverAPI](https://overapi.com/)
 - [QuickRefMe](https://quickref.me/index.html)
 - [BroCode](https://www.youtube.com/@BroCodez)
+- [Arjan Codes](https://www.youtube.com/@ArjanCodes/playlists)
+- [Andreas Spiess](https://www.youtube.com/@AndreasSpiess/videos)
 
 ### Programming Practice
 
@@ -93,7 +97,12 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [pybites](https://pybit.es/)
 - [CodeForces](https://codeforces.com/contests)
 - [GitMastery](https://gitmastery.me/)
-- [ReadMe.So](https://readme.so/)
+- [CodeForces](https://codeforces.com/)
+- [Project Euler](https://projecteuler.net/)
+- [SPOJ](https://www.spoj.com/)
+- [CodinGame](https://www.codingame.com/start/)
+- [The Farmer was Replaced](https://thefarmerwasreplaced.com/basic-codes/)
+
   
 
 ### Artificial Intelligence and Machine Learning
@@ -109,6 +118,9 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Quick Draw](https://quickdraw.withgoogle.com/?locale=en_US)
 - [Lakera](https://play.lakera.ai/agent-breaker)
+- [PapersWithCode](https://paperswithcode.co/)
+- [LilLog](https://lilianweng.github.io/)
+- [MLU Explain](https://mlu-explain.github.io/)
 
 ### Cloud and Networking
 
@@ -121,6 +133,7 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Engineering Statics](https://engineeringstatics.org/)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 - [Last Minute Engineers](https://lastminuteengineers.com/)
+- [Engineering Gone Wild](https://www.youtube.com/@EngineeringGoneWild)
 
 ### Circuits and Electronics
 - [CircuitBread](https://www.circuitbread.com/)
@@ -132,6 +145,16 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Afrotechmods](https://www.youtube.com/@Afrotechmods)
 - [NesoAcademy](https://www.youtube.com/@nesoacademy)
 - [Schemy.net](https://schemy.net/)
+- [Tinkered AI](https://www.tinkered.ai/)
+- [Mortiz Klein](https://www.youtube.com/@MoritzKlein0)
+- [Falstad](https://www.falstad.com/circuit/)
+- [CircuitVerse](https://circuitverse.org/)
+- [Digikey](https://www.digikey.com/en/schemeit/home)
+- [All About Circuits](https://www.allaboutcircuits.com/)
+- [Project Arduino](https://projecthub.arduino.cc/)
+- [Turing Complete](https://turingcomplete.game/)
+- [LT Spice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+- [Great Scott!](https://www.youtube.com/@greatscottlab)
 
 ### CAD and Engineering Design
 
@@ -145,7 +168,8 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [PrePoMax](https://prepomax.fs.um.si/) 
 - [Blender](https://www.blender.org/)
 - [SolveSpace](https://solvespace.com/index.pl) 
-- [ByteByteGo](https://bytebytego.com/) 
+- [ByteByteGo](https://bytebytego.com/)
+- [CudaCountry](https://www.cudacountry.net/html/solidworks_toc.html)
 
 ### VEX Robotics
 
