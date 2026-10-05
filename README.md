@@ -1,156 +1,126 @@
-# Next-Gen-Tech-Initiative
-Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field [...]
-<img width="1024" height="1024" alt="NGTI Logo" src="https://media.discordapp.net/attachments/1065029810201575537/1550665449858015313/NGTI_LOGO_1.png?ex=6aaf293d&is=6aadd7bd&hm=cc340101b42444d9726c2d5[...]
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">NGTI Logo</title>
+  <desc id="desc">Next Gen Tech Initiative circular logo with a robot face split between blue and yellow.</desc>
+  <defs>
+    <style>
+      .gear-outline { fill: #0c1d48; stroke: #0c1d48; stroke-width: 18; }
+      .gear-tooth { fill: #0c1d48; }
+      .navy { fill: #0d2345; }
+      .blue { fill: #68b7df; }
+      .yellow { fill: #f7c93b; }
+      .line { stroke: #0d2345; stroke-width: 18; stroke-linecap: round; stroke-linejoin: round; }
+      .dark-line { stroke: #0d2345; stroke-width: 12; stroke-linecap: round; stroke-linejoin: round; }
+      .small-dot { fill: #0d2345; }
+      .text { font-family: Arial, Helvetica, sans-serif; font-weight: 700; letter-spacing: 3px; fill: #0d2345; }
+    </style>
+  </defs>
 
-## Follow and Join us on:
-- [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
+  <rect width="1024" height="1024" fill="#f3f3f3"/>
 
-## Upcoming Events
-- Talk with a Software Engineer: 9/24
-- Vicktoria AI Demo: 10/1
-- Internet Safety: 10/8
-<h2>Meetings</h2>
+  <g transform="translate(512,512)">
+    <!-- Outer gear ring -->
+    <g>
+      <circle r="360" fill="#0d2345"/>
+      <circle r="286" fill="#f3f3f3" opacity="0.15"/>
+      <!-- eight gear teeth on top and bottom -->
+      <g>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth"/>
+        <rect x="-28" y="342" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(180 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(45 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(90 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(135 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(225 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(270 0 0)"/>
+        <rect x="-28" y="-430" width="56" height="88" rx="14" class="gear-tooth" transform="rotate(315 0 0)"/>
+      </g>
+      <circle r="270" class="gear-outline"/>
+      <circle r="218" fill="#0d2345"/>
+    </g>
 
-<h3>Usual Time and Location (will update if changed for specific meetings) </h3>
-Time: Thursdays, 12:50pm-1:40pm
-Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
+    <!-- Main face -->
+    <g>
+      <path d="M -226 -210 L 0 -210 L 0 230 L -226 230 Z" class="yellow"/>
+      <path d="M 0 -210 L 226 -210 L 226 230 L 0 230 Z" class="blue"/>
+      <path d="M -226 230 L 0 230 L 0 12 L -226 12 Z" fill="#0d2345" opacity="0.12"/>
 
-## Learning Opportunities 
+      <!-- central features -->
+      <path d="M -228 230 L 228 230 L 228 8 L 104 8 L 104 -170 L -104 -170 L -104 8 L -228 8 Z" fill="#f3f3f3" opacity="0.2"/>
 
-### General Learning Platforms
+      <!-- left eye -->
+      <circle cx="-92" cy="-50" r="74" class="navy"/>
+      <circle cx="-92" cy="-50" r="42" fill="#f7c93b"/>
+      <circle cx="-92" cy="-50" r="22" class="navy"/>
+      <circle cx="-68" cy="-70" r="10" fill="#f3f3f3"/>
 
-- [Class Central](https://www.classcentral.com/) 
-- [Forage](https://www.theforage.com/dashboard) 
-- [IBM SkillsBuild](https://www.ibm.com/training)
-- [Microsoft Learn](https://learn.microsoft.com/) 
-- [MIT OpenCourseWare](https://ocw.mit.edu/) 
-- [Tao's AP/College Resources](https://github.com/Tao1353/College-and-AP-Help) 
-- [Great Learning Academy](https://www.mygreatlearning.com/academy)
-- [Google Digital Garage](https://skillshop.exceedlms.com/student/catalog/list?category_ids=7879-google-digital-garage) 
-- [NVIDA](https://www.nvidia.com/en-us/training/self-paced-courses/)
-- [Open Yale Courses](https://oyc.yale.edu/)
-- [Harvard Online](https://harvardonline.harvard.edu/)
-- [LearnVern](https://www.learnvern.com/)
-- [DigitalDefynd](https://digitaldefynd.com/)
-- [OpenCulture](https://www.openculture.com/freeonlinecourses)
-- [RoadMap](https://roadmap.sh/)
+      <!-- right eye -->
+      <circle cx="92" cy="-50" r="74" class="navy"/>
+      <circle cx="92" cy="-50" r="42" fill="#f7c93b"/>
+      <circle cx="92" cy="-50" r="22" class="navy"/>
+      <circle cx="120" cy="-70" r="10" fill="#f3f3f3"/>
 
-### Programming Foundations
+      <!-- mouth / jaw -->
+      <path d="M -196 170 L 196 170 L 178 206 L 68 206 L 49 248 L -46 248 L -68 214 L -178 214 Z" fill="#0d2345"/>
+      <path d="M -162 165 L 162 165 L 130 198 L 78 198 L 62 228 L -58 228 L -74 198 L -128 198 Z" fill="#f7c93b"/>
 
-- [CS50 — YouTube](https://www.youtube.com/@cs50) 
-- [FreeCodeCamp](https://www.freecodecamp.org/) 
-- [Derek Banas — YouTube](https://www.youtube.com/@derekbanas)
-- [CoddyTech](https://coddy.tech/) 
-- [Python Tutor](https://pythontutor.com/)
-- [W3Schools](https://www.w3schools.com/) 
-- [The Cherno — YouTube](https://www.youtube.com/@TheCherno) 
-- [FutureCoder](https://futurecoder.io/)
-- [CodeBeauty - Youtube](https://www.youtube.com/codebeauty)
-- [OverAPI](https://overapi.com/)
-- [QuickRefMe](https://quickref.me/index.html)
-- [BroCode](https://www.youtube.com/@BroCodez)
+      <!-- decorative dots -->
+      <circle cx="-92" cy="-220" r="18" class="small-dot"/>
+      <circle cx="92" cy="-220" r="18" class="small-dot"/>
+      <circle cx="-15" cy="-220" r="18" class="small-dot"/>
+      <circle cx="15" cy="-220" r="18" class="small-dot"/>
+      <circle cx="-162" cy="80" r="16" class="small-dot"/>
+      <circle cx="162" cy="80" r="16" class="small-dot"/>
+      <circle cx="-150" cy="150" r="13" class="small-dot"/>
+      <circle cx="150" cy="150" r="13" class="small-dot"/>
 
-### Programming Practice
+      <!-- ears / side details -->
+      <rect x="-238" y="-82" width="36" height="82" rx="9" class="navy"/>
+      <rect x="202" y="-82" width="36" height="82" rx="9" class="navy"/>
+      <circle cx="-175" cy="-120" r="26" class="small-dot"/>
+      <circle cx="175" cy="-120" r="26" class="small-dot"/>
+    </g>
 
-- [LeetCode](https://leetcode.com/) 
-- [CodeSignal](https://codesignal.com/cosmo/) 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) 
-- [Exercism](https://exercism.org/) 
-- [The Odin Project](https://www.theodinproject.com/) 
-- [CodeWars](https://www.codewars.com/)
-- [CodeCombat](https://codecombat.com/)
-- [Firstpromptbuild](https://firstprompt.build/)
-- [CodeChef](https://www.codechef.com/)
-- [HDL2 Chips](https://hdl2chips.in)
-- [realpython](https://realpython.com/)
-- [pybites](https://pybit.es/)
-- [CodeForces](https://codeforces.com/contests)
-- [GitMastery](https://gitmastery.me/)
-- [ReadMe.So](https://readme.so/)
-  
-
-### Artificial Intelligence and Machine Learning
-
-- [Anthropic Academy](https://www.anthropic.com/learn) 
-- [Google AI](https://grow.google/ai-essentials/) 
-- [Hugging Face](https://huggingface.co/learn) 
-- [Kaggle](https://www.kaggle.com/learn) 
-- [Elements of AI](https://www.elementsofai.com/) 
-- [DeepLearning](https://www.deeplearning.ai/courses) 
-- [SimpliLearn](https://www.simplilearn.com/)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Quick Draw](https://quickdraw.withgoogle.com/?locale=en_US)
-- [Lakera](https://play.lakera.ai/agent-breaker)
-
-### Cloud and Networking
-
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) 
-- [Cisco Skills](https://www.netacad.com/) 
+    <!-- Text around bottom -->
+    <g>
+      <text x="0" y="345" text-anchor="middle" class="text" font-size="46" transform="rotate(0 0 0)">NEXT GEN TECH INITIATIVE</text>
+    </g>
+  </g>
+</svg>
 
 
-### Engineering Fundamentals
 
-- [Engineering Statics](https://engineeringstatics.org/)
-- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-- [Last Minute Engineers](https://lastminuteengineers.com/)
 
-### Circuits and Electronics
-- [CircuitBread](https://www.circuitbread.com/)
-- [KiCad](https://www.kicad.org/)
-- [BenEater](https://eater.net/)
-- [wokwi](https://wokwi.com/)
-- [sparksfun](https://www.sparkfun.com/)
-- [Phil's Lab](https://www.youtube.com/@PhilsLab)
-- [Afrotechmods](https://www.youtube.com/@Afrotechmods)
-- [NesoAcademy](https://www.youtube.com/@nesoacademy)
-- [Schemy.net](https://schemy.net/)
-- [
 
-### CAD and Engineering Design
 
-- [FreeCAD](https://www.freecad.org/) 
-- [OnShape](https://www.onshape.com/en/) 
-- [GrabCAD](https://grabcad.com/) 
-- [Ansys](https://ansys.synopsys.com/) 
-- [SimScale](https://www.simscale.com/) 
-- [OpenSCAD](https://openscad.org/)
-- [LibreCAD](https://librecad.org/) 
-- [PrePoMax](https://prepomax.fs.um.si/) 
-- [Blender](https://www.blender.org/)
-- [SolveSpace](https://solvespace.com/index.pl) 
-- [ByteByteGo](https://bytebytego.com/) 
 
-### VEX Robotics
 
-- [VEX U](https://www.vexu.org/)
-- [2026-2027 Override Game Video](https://www.youtube.com/watch?v=9SzdOQ-VGfk)
-- [2026-2027 Override Game Manual](https://content.vexrobotics.com/docs/VEX-U-2026-2027/2026-2027-VEX-U-Game-Manual.pdf)
-- [VEX Forum](https://www.vexforum.com/)
 
-### Materials and Manufacturing
 
-- [MatWeb](https://www.matweb.com/) 
-- [GaugeHow](https://gaugehow.com/)
-- [WeBots](https://cyberbotics.com/)
-  
-## Internships/Jobs
-- [Venture Starters](https://venturestarters.com/intern-program)
-- [IBM](https://www.ibm.com/careers/internships)
-- [WellFound](https://wellfound.com/)
-- [Summer 2027 - Simplify](https://github.com/SimplifyJobs/Summer2027-Internships)
-- [Summer 2027 - vansh](https://github.com/vanshb03/Summer2027-Internships)
-- [2027 AI Jobs - Speedy](https://github.com/speedyapply/2027-AI-College-Jobs)
-- [MLH Fellowship](https://fellowship.mlh.com/)
-- [Outreachy](https://www.outreachy.org/)
-- [AWS re/Start](https://aws.amazon.com/training/restart/)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/)
-- [Anthropics Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/)
-- [NASA](https://stemgateway.nasa.gov/s/explore-opportunities?opportunitytype=internships)
-- [NVIDA](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
-- [AI Societal Impact](https://www.aisocietalimpactlab.com/)
-- [RazorPay](https://razorpay.com/buildathon/)
-- [Google](https://research.google/programs-and-events/student-engagement/)
-- [Amazon](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students)
-- [Sequoia](https://sequoiacap.com/oss)
-- [Netflix](https://jobs.netflix.com/careers/internships)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
