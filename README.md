@@ -1,6 +1,6 @@
 # Next-Gen-Tech-Initiative
 Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field [...]
-<img width="1024" height="1024" alt="NGTI Logo" src="https://media.discordapp.net/attachments/1065029810201575537/1550665449858015313/NGTI_LOGO_1.png?ex=6aaf293d&is=6aadd7bd&hm=cc340101b42444d9726c2d5ac2d18ab78f843c9b0f4349f5ccc0027fc7683059&=&format=webp&quality=lossless" />
+<img width="1024" height="1024" alt="NGTI Logo" src="https://media.discordapp.net/attachments/1065029810201575537/1550665449858015313/NGTI_LOGO_1.png?ex=6aaf293d&is=6aadd7bd&hm=cc340101b42444d9726c2d5[...]
 
 ## Follow and Join us on:
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
@@ -86,6 +86,13 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 - [Last Minute Engineers](https://lastminuteengineers.com/)
 
+### Circuits and Electronics
+
+- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+- [Last Minute Engineers](https://lastminuteengineers.com/)
+- [CircuitBread](https://www.circuitbread.com/)
+- [KiCad](https://www.kicad.org/)
+
 ### CAD and Engineering Design
 
 - [FreeCAD](https://www.freecad.org/) 
@@ -97,7 +104,6 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [LibreCAD](https://librecad.org/) 
 - [PrePoMax](https://prepomax.fs.um.si/) 
 - [Blender](https://www.blender.org/)
-- [KiCad](https://www.kicad.org/) 
 - [SolveSpace](https://solvespace.com/index.pl) 
 - [ByteByteGo](https://bytebytego.com/) 
 
@@ -113,7 +119,6 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [MatWeb](https://www.matweb.com/) 
 - [GaugeHow](https://gaugehow.com/)
 - [WeBots](https://cyberbotics.com/)
-- [CircuitBread](https://www.circuitbread.com/)
   
 ## Internships/Jobs
 - [Venture Starters](https://venturestarters.com/intern-program)
