@@ -33,6 +33,7 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [LearnVern](https://www.learnvern.com/)
 - [DigitalDefynd](https://digitaldefynd.com/)
 - [OpenCulture](https://www.openculture.com/freeonlinecourses)
+- [RoadMap](https://roadmap.sh/)
 
 ### Programming Foundations
 
@@ -46,6 +47,8 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [FutureCoder](https://futurecoder.io/)
 - [CodeBeauty - Youtube](https://www.youtube.com/codebeauty)
 - [OverAPI](https://overapi.com/)
+- [QuickRefMe](https://quickref.me/index.html)
+- [BroCode](https://www.youtube.com/@BroCodez)
 
 ### Programming Practice
 
@@ -62,6 +65,8 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [realpython](https://realpython.com/)
 - [pybites](https://pybit.es/)
 - [CodeForces](https://codeforces.com/contests)
+- [GitMastery](https://gitmastery.me/)
+- [ReadMe.So](https://readme.so/)
   
 
 ### Artificial Intelligence and Machine Learning
@@ -72,7 +77,11 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Kaggle](https://www.kaggle.com/learn) 
 - [Elements of AI](https://www.elementsofai.com/) 
 - [DeepLearning](https://www.deeplearning.ai/courses) 
-- [SimpliLearn](https://www.simplilearn.com/) 
+- [SimpliLearn](https://www.simplilearn.com/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Quick Draw](https://quickdraw.withgoogle.com/?locale=en_US)
+- [Lakera](https://play.lakera.ai/agent-breaker)
 
 ### Cloud and Networking
 
@@ -87,11 +96,16 @@ Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
 - [Last Minute Engineers](https://lastminuteengineers.com/)
 
 ### Circuits and Electronics
-
-- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-- [Last Minute Engineers](https://lastminuteengineers.com/)
 - [CircuitBread](https://www.circuitbread.com/)
 - [KiCad](https://www.kicad.org/)
+- [BenEater](https://eater.net/)
+- [wokwi](https://wokwi.com/)
+- [sparksfun](https://www.sparkfun.com/)
+- [Phil's Lab](https://www.youtube.com/@PhilsLab)
+- [Afrotechmods](https://www.youtube.com/@Afrotechmods)
+- [NesoAcademy](https://www.youtube.com/@nesoacademy)
+- [Schemy.net](https://schemy.net/)
+- [
 
 ### CAD and Engineering Design
 
