@@ -1,15 +1,16 @@
 # Next-Gen-Tech-Initiative
 Next Gen Tech Initiative (NextTech) is a Long Island University Student Organization that aims to help students learn tech skills that will benefit them in the future and help those in the tech field.
 
-<img width="1024" height="1024" alt="NGTI Logo" src="./NGTI_LOGO.svg">
+<img width="1024" height="1024" alt="NGTI Logo" src="https://media.discordapp.net/attachments/1065029810201575537/1557759112907989114/NGTI_LOGO_1.png?ex=6acb9aba&is=6aca493a&hm=7692e33ac2fd22d967ea1e93fe234fe7e76304d82f0238619e0a91c22f2d25fc&=&format=webp&quality=lossless"
 
 ## Follow and Join us on:
 - [Instagram](https://www.instagram.com/nexttech.liupost?igsh=am55ZzFhN2RzODZu&utm_source=qr)
 
 ## Upcoming Events
-- Internet Safety: 10/8
+- Learn about VEX Robotics: 10/15
+- Python Programming Workshop: 11/12
+- SanTao's LEGO Workshop and Karaoke!: 12/3 
 <h2>Meetings</h2>
-
 <h3>Usual Time and Location (will update if changed for specific meetings) </h3>
 Time: Thursdays, 12:50pm-1:40pm
 Location: AI,CS, and Digital Engineering Office (2nd Floor of Library)
